@@ -1901,9 +1901,9 @@ public class PreferencesDialog extends javax.swing.JDialog {
 
         tabsPanel.addTab("Sounds", tabSounds);
 
-        avatarPane.setMaximumSize(new java.awt.Dimension(508, 772));
-        avatarPane.setMinimumSize(new java.awt.Dimension(508, 772));
-        avatarPane.setPreferredSize(new java.awt.Dimension(508, 772));
+        avatarPane.setMaximumSize(new java.awt.Dimension(508, 550));
+        avatarPane.setMinimumSize(new java.awt.Dimension(508, 550));
+        avatarPane.setPreferredSize(new java.awt.Dimension(508, 550));
 
         avatarPanel.setMaximumSize(new java.awt.Dimension(508, 772));
         avatarPanel.setMinimumSize(new java.awt.Dimension(508, 772));
